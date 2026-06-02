@@ -1,4 +1,4 @@
-Perfect, let’s make your app interview-ready! Here’s a comprehensive test plan for your URL shortener, including what to fill in, what to expect, and how to debug any issues. We’ll go step by step, and I’ll help you fix any errors immediately.
+Perfect, let’s make web app deploy ready! Here’s a comprehensive test plan for the URL shortener, including what to fill in, what to expect, and how to debug any issues, We’ll go step by step.
 
 1. Basic Connectivity Check
 * Open your frontend: http://localhost:3000
